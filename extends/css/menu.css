@@ -1,0 +1,30 @@
+#menuManage > tbody > tr > td:nth-child(2) {
+    text-align: left !important;
+}
+
+.icon-cancel-circle2 {
+    color: #999999;
+}
+
+.menu-operate {
+    margin-top: 20px;
+}
+
+.menu-operate .menu-add button {
+    margin-right: 20px;
+}
+
+.menu-operate .menu-edit .bg-primary-400 {
+    margin-right: 20px;
+}
+
+.menu-operate button i {
+    margin-right: 5px;
+}
+.modal-header{
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+}
+.modal-header .close{
+top:30%;
+}
